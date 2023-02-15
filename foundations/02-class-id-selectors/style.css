@@ -1,0 +1,20 @@
+/* -- stylesheet -- */
+
+#second {
+    color: rgb(40,60,240);
+    font-size: 36px;
+}
+
+.odd {
+    background-color: rgb(216, 112, 147);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+.forth {
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+}
